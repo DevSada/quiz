@@ -5,4 +5,8 @@
 //  Created by Alexander Petrenko on 30.09.2022.
 //
 
-import Foundation
+import UIKit
+
+class QuestionViewControlller: UIViewController {
+
+}
