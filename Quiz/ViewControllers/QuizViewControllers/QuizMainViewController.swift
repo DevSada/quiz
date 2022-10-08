@@ -5,4 +5,10 @@
 //  Created by Alexander Petrenko on 04.10.2022.
 //
 
-import Foundation
+import UIKit
+
+class QuizMainViewController: UIViewController {
+    
+    
+    @IBAction func unwind(for segue: UIStoryboardSegue) {}
+}
